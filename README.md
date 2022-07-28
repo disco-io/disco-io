@@ -1,4 +1,4 @@
-![READ ME](https://user-images.githubusercontent.com/80224791/181575693-b716ebc6-b204-47ab-97e5-82a0870b9e32.png)
+![READ ME](https://user-images.githubusercontent.com/80224791/181576069-ddf98823-3d5a-4a27-9735-ba512a38c7c8.png)
 # **print("Hello World! My name is Soso!")** :wave: 
 
 ## :book: About Me!
