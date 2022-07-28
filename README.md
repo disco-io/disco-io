@@ -1,16 +1,22 @@
-### Hi there 👋
+![READ ME](https://user-images.githubusercontent.com/80224791/181575693-b716ebc6-b204-47ab-97e5-82a0870b9e32.png)
+# **print("Hello World! My name is Soso!")** :wave: 
 
-<!--
-**disco-io/disco-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :book: About Me!
 
-Here are some ideas to get you started:
+- :books: Currently a student at TJHSST in VA, United States
+- :computer: About 1 year of coding experience
+- :brain: Myers-Briggs Personality Type: INFJ-T
+- :female_sign: Pronouns: She/Her/Hers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :sparkling_heart: I Love...
+
+- :notes: Music by Metallica, Green Day, In Flames, Keshi, etc. 
+- :lollipop: Haribo's Gummy Bears
+- :drum: Drumming, video gaming, watching anime
+- :seedling: My indoor basil plant, Fibonacci
+-  :flags: Adori, my sassy pet betta fish
+- :crescent_moon: Evening strolls outside at 8 pm
+
+
+Hope you'll stick around to watch my coding journey... I promise I'll make a project some day that will shake the world! :)
+> Icon by nyurei on Picrew
