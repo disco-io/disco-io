@@ -14,7 +14,7 @@
 
 ### :sparkling_heart: I Love...
 
-- :notes: Music by Metallica, Green Day, In Flames, Keshi, etc. 
+- :notes: Music by Metallica, Green Day, MCR, Keshi, Children of Bodom, etc. 
 - :lollipop: Haribo's Gummy Bears
 - :drum: Drumming, video gaming, watching anime
 - :seedling: My indoor basil plant, Fibonacci
