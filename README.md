@@ -1,4 +1,4 @@
-![READ ME](https://user-images.githubusercontent.com/80224791/181576069-ddf98823-3d5a-4a27-9735-ba512a38c7c8.png)
+![READ ME (1)](https://user-images.githubusercontent.com/80224791/181582282-25eee161-3983-4ef9-af78-43715871d14b.png)
 # **print("Hello World! My name is Soso!")** :wave: 
 
 
@@ -18,7 +18,7 @@
 - :lollipop: Haribo's Gummy Bears
 - :drum: Drumming, video gaming, watching anime
 - :seedling: My indoor basil plant, Fibonacci
--  :flags: Adori, my sassy pet betta fish
+- :flags: Adori, my sassy pet betta fish
 - :crescent_moon: Evening strolls outside at 8 pm
 
 
