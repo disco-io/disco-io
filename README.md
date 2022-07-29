@@ -2,7 +2,7 @@
 # **print("Hello World! My name is Soso!")** :wave: 
 
 
-| ![discord logo (1)](https://user-images.githubusercontent.com/80224791/181578951-88f1920b-8d19-44bc-ba29-90346400b18a.png) disco#1565 | ![instagram (1)](https://user-images.githubusercontent.com/80224791/181579545-c8ea1583-e8b5-4aec-8197-3dddb72ce599.png) @disco.io | ![Profile views](https://gpvc.arturio.dev/disco-io) |
+| ![discord logo (1)](https://user-images.githubusercontent.com/80224791/181578951-88f1920b-8d19-44bc-ba29-90346400b18a.png) disco#1565 | ![instagram](https://user-images.githubusercontent.com/80224791/181579545-c8ea1583-e8b5-4aec-8197-3dddb72ce599.png) @disco.io | ![](https://komarev.com/ghpvc/?username=disco-io&color=81A644) |
 | ------------- | -------------  | -------------  |
 
 ### :book: About Me!
@@ -23,4 +23,4 @@
 
 
 Hope you'll stick around and follow my CS progress... I promise I'll make a project some day that will shake the world! :)
-> Icon by nyurei on Picrew; Profile View Counter by @arturssmirnovs
+> Icon by nyurei on Picrew; Profile View Counter by @antonkomarev
