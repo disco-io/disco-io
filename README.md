@@ -14,10 +14,10 @@
 
 ### :sparkling_heart: I Love...
 
-- :notes: Music by Metallica, Green Day, Owl City, July, Children of Bodom, ...
+- :notes: Music by Metallica, Green Day, CAS, July, Children of Bodom, ...
 - :lollipop: Haribo's Gummy Bears
 - :drum: Drumming, video gaming, watching anime
-- :seedling: My indoor basil plant, Fibonacci
+- :seedling: Looking after my indoor basil plant, Fibonacci
 - :flags: Adori, my sassy pet betta fish
 - :crescent_moon: Evening strolls outside at 8 pm (+bonus points for rain!)
 
