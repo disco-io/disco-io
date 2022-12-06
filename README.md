@@ -14,9 +14,9 @@
 
 ### :sparkling_heart: I Love...
 
-- :notes: Music by Metallica, Green Day, CAS, July, Children of Bodom, ...
+- :notes: Music of all genres c:
 - :lollipop: Haribo's Gummy Bears
-- :drum: Drumming, video gaming, watching anime
+- :drum: Drumming, video gaming, coding...
 - :seedling: Looking after my indoor basil plant, Fibonacci
 - :flags: Adori, my sassy pet betta fish
 - :crescent_moon: Evening strolls outside at 8 pm (+bonus points for rain!)
