@@ -14,12 +14,11 @@
 
 ### :sparkling_heart: I Love...
 
-- :notes: Music of all genres c:
+- :notes: Music of all genres (especially indie & metal!)
 - :lollipop: Haribo's Gummy Bears
-- :drum: Drumming, video gaming, coding...
-- :seedling: Looking after my indoor basil plant, Fibonacci
+- :drum: Drumming, video gaming, coding, color guard...
 - :flags: Adori, my sassy pet betta fish
-- :crescent_moon: Evening strolls outside at 8 pm (+bonus points for rain!)
+- :crescent_moon: Evening strolls outside at 8 pm 
 
 
 Hope you'll stick around and follow my CS progress... I promise I'll make a project some day that will shake the world! :)
@@ -28,4 +27,4 @@ Hope you'll stick around and follow my CS progress... I promise I'll make a proj
 
 ![Metrics](https://metrics.lecoq.io/disco-io?template=classic&base.activity=0&base.repositories=0&pagespeed=1&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=America%2FNew_York)
 
-> Icon: AI art :O //  Metrics by @lowlighter
+> Icon: AI art //  Metrics by @lowlighter
