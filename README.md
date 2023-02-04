@@ -7,7 +7,7 @@
 
 ### :book: About Me!
 
-- :books: Currently a student at TJHSST in VA, United States
+- :books: Currently a student at TJHSST in the United States
 - :computer: About 1.5 years of coding experience
 - :brain: Myers-Briggs Personality Type: INFJ-T
 - :female_sign: Pronouns: She/Her/Hers
@@ -16,9 +16,10 @@
 
 - :notes: Music of all genres (especially indie & metal!)
 - :lollipop: Haribo's Gummy Bears
-- :drum: Drumming, video gaming, coding, color guard...
+- :drum: Drums, piano, gaming, coding, color guard...
 - :flags: Adori, my sassy pet betta fish
 - :crescent_moon: Evening strolls outside at 8 pm 
+- :pencil: Statistics, Data Analytics, Chemistry, Trigonometry, Calculus
 
 
 Hope you'll stick around and follow my CS progress... I promise I'll make a project some day that will shake the world! :)
