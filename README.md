@@ -8,7 +8,7 @@
 ### :book: About Me!
 
 - :books: Currently a student at TJHSST in the United States
-- :computer: About 1.5 years of coding experience
+- :computer: Coding for 2 years and counting...
 - :brain: Myers-Briggs Personality Type: INFJ-T
 - :female_sign: Pronouns: She/Her/Hers
 
