@@ -18,8 +18,7 @@
 - :lollipop: Haribo's Gummy Bears
 - :drum: Drums, piano, gaming, coding, color guard...
 - :flags: Adori, my sassy pet betta fish
-- :crescent_moon: Evening strolls outside at 8 pm 
-- :pencil: Statistics, Data Analytics, Chemistry, Trigonometry, Calculus
+- :popcorn: Fav movies: Titanic, The Matrix, Crazy Rich Asians, Spirited Away
 
 
 Hope you'll stick around and follow my CS progress... I promise I'll make a project some day that will shake the world! :)
