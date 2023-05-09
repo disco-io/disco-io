@@ -9,7 +9,7 @@
 
 - :books: Currently a student at TJHSST in the United States
 - :computer: Coding for 2 years and counting...
-- :brain: Myers-Briggs Personality Type: INFJ-T
+- :brain: Myers-Briggs Personality Type: INFJ-T 
 - :female_sign: Pronouns: She/Her/Hers
 
 ### :sparkling_heart: I Love...
@@ -19,6 +19,7 @@
 - :drum: Drums, piano, gaming, coding, color guard...
 - :flags: Adori, my sassy pet betta fish
 - :popcorn: Fav movies: Titanic, The Matrix, Crazy Rich Asians, Spirited Away
+- :book: Fav books: Mambo in Chinatown, Searching for Sylvie Lee, Girl in Translation, Memoirs of a Geisha
 
 
 Hope you'll stick around and follow my CS progress... I promise I'll make a project some day that will shake the world! :)
