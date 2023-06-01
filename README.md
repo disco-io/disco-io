@@ -18,7 +18,7 @@
 - :drum: Drums, piano, gaming, coding, color guard...
 - :flags: Adori, my sassy pet betta fish
 - :popcorn: Fav movies: Titanic, The Matrix, Crazy Rich Asians, Spirited Away
-- :book: Fav books: Mambo in Chinatown, Searching for Sylvie Lee, Girl in Translation, Memoirs of a Geisha
+- :book: Fav books: Mambo in Chinatown, Searching for Sylvie Lee
 
 
 Hope you'll stick around and follow my CS progress... I promise I'll make a project some day that will shake the world! :)
