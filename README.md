@@ -13,12 +13,13 @@
 
 ### :sparkling_heart: I Love...
 
-- :notes: Music of all genres (especially indie & metal!)
+- :notes: Melodic death metal & other genres
 - :lollipop: Haribo's Gummy Bears
-- :drum: Drums, piano, gaming, coding, color guard...
+- :crossed_flags: Hobbies: color guard, piano, taiko, coding
 - :flags: Adori, my sassy pet betta fish
 - :popcorn: Fav movies: Titanic, The Matrix, Crazy Rich Asians, Spirited Away
 - :book: Fav books: 1984, Searching for Sylvie Lee, Pearl of China
+- :crossed_swords: Fav anime: Attack on Titan :D
 
 
 Hope you'll stick around and follow my CS progress... I promise I'll make a project some day that will shake the world! :)
