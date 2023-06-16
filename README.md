@@ -16,10 +16,9 @@
 - :lollipop: Haribo's Gummy Bears
 - :crossed_flags: Hobbies: color guard, piano, taiko, coding
 - :flags: Adori, my sassy pet betta fish
+- :desktop_computer: Fav games: Valorant, Apex Legends
 - :popcorn: Fav movies: Titanic, The Matrix, Crazy Rich Asians, Spirited Away
 - :book: Fav books: 1984, Searching for Sylvie Lee, Pearl of China
-- :crossed_swords: Fav anime: Attack on Titan :D
-- :desktop_computer: Fav games: Valorant, Apex Legends
 - :notes: Melodic death metal & other genres
 
 
