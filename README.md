@@ -18,7 +18,7 @@
 - :flags: Adori, my sassy pet betta fish
 - :desktop_computer: Fav games: Valorant, Apex Legends
 - :popcorn: Fav movies: Titanic, The Matrix, Crazy Rich Asians, Spirited Away
-- :book: Fav books: 1984, Searching for Sylvie Lee, Pearl of China
+- :book: Fav books: Searching for Sylvie Lee, Pearl of China, Pachinko
 - :notes: Melodic death metal & other genres
 
 
