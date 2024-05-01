@@ -7,8 +7,8 @@
 
 ### :book: About Me!
 
-- :computer: Coding for 2.5 years and counting...
-- :brain: Myers-Briggs Personality Type: INFJ-T 
+- :computer: Coding for 3 years and counting...
+- :brain: Myers-Briggs Personality Type: INFJ-A
 - :female_sign: Pronouns: She/Her/Hers
 
 ### :gift_heart: I Love...
@@ -16,6 +16,6 @@
 - :lollipop: Haribo's Gummy Dinos
 - :flags: Adori, my sassy pet betta fish
 - :popcorn: Movies: Little Women, Titanic (1997), Before Sunrise, Crazy Rich Asians
-- :book: Books: Educated by Tara Westover, Lotus by Lijia Zhang, Pearl of China by Anchee Min
+- :book: Books: Educated by Tara Westover, The Worlds I See by Fei-Fei Li, Pearl of China by Anchee Min
 
 Hope you'll stick around and follow my CS progress... I promise I'll make a project some day that will shake the world! :)
