@@ -1,5 +1,5 @@
 
-# **print("Hello World! My name is Soso!")** :wave: 
+# **print("Hello World! My name is Sophia!")** :wave: 
 
 
 | ![discord logo (1)](https://user-images.githubusercontent.com/80224791/181578951-88f1920b-8d19-44bc-ba29-90346400b18a.png) @disco.io | ![instagram](https://user-images.githubusercontent.com/80224791/181579545-c8ea1583-e8b5-4aec-8197-3dddb72ce599.png) @disco.io |
