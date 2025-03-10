@@ -7,7 +7,7 @@
 
 ### :book: About Me!
 
-- :computer: Coding for 3 years and counting...
+- :computer: Coding for 4 years and counting...
 - :brain: Myers-Briggs Personality Type: INFJ-A
 - :female_sign: Pronouns: She/Her/Hers
 
@@ -15,5 +15,5 @@
 
 - :lollipop: Haribo's Gummy Dinos
 - :flags: Adori, my sassy pet betta fish
-- :popcorn: Movies: Little Women, Titanic (1997), Before Sunrise, Crazy Rich Asians
+- :popcorn: Movies: Little Women, Titanic (1997), Crazy Rich Asians
 - :book: Books: A Little Life by Hanya Yanagihara, The Worlds I See by Fei-Fei Li, Pearl of China by Anchee Min
