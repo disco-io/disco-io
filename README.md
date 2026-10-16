@@ -16,8 +16,8 @@
 ### ✿ about me
 
 - 🤖 Spent summer 2026 as an **AI Engineer Intern at [Noblis](https://www.linkedin.com/company/noblis/)**, building a RAG-powered news briefing system for national security professionals (Python, LangChain, Postgres, AWS)
-- 💻 Lead on **DevFest** with Columbia's [Application Development Initiative](https://www.adicu.com/), and an instructor with **Girls Who Code**
-- 🏆 2025 National Merit Scholar · Best Social Impact at HackTJ for an OCR tool that scans handwritten prescriptions / doctor's notes
+- 💻 Lead on **DevFest** with Columbia's [Application Development Initiative](https://www.adicu.com/), and an instructor with [Girls Who Code](https://girlswhocode.com/)
+- 🏆 2025 National Merit Scholar · Best Social Impact at [HackTJ](https://hacktj.org/pastwinners#year-2025) for an OCR tool that scans handwritten prescriptions 
 - 🧬 Co-authored a paper on [estimating the transmission fitness of SARS-CoV-2 variants](https://doi.org/10.1002/qub2.70003) (*Quantitative Biology*, Wiley)
 - 🌱 Contributor to 20+ repositories, and always happy to collaborate :)
 - 💃🏻 Off the keyboard: competitive ballroom and latin dancer
