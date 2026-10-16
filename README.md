@@ -2,7 +2,7 @@
 
 <p align="center">
   CS @ <b>Barnard College, Columbia University</b> · New York City<br>
-  building things at the intersection of <b>AI</b>, <b>software</b>, and <b>computer graphics</b>
+  tinkering with <b>AI</b>, <b>software</b>, and <b>computer graphics</b>
 </p>
 
 <p align="center">
@@ -16,15 +16,15 @@
 ### ✿ about me
 
 - 🤖 Spent summer 2026 as an **AI Engineer Intern at [Noblis](https://www.linkedin.com/company/noblis/)**, building a RAG-powered news briefing system for national security professionals (Python, LangChain, Postgres, AWS)
-- 💻 Lead on **DevFest** with Columbia's Application Development Initiative, and an instructor with **Girls Who Code**
+- 💻 Lead on **DevFest** with Columbia's [Application Development Initiative](https://www.adicu.com/), and an instructor with **Girls Who Code**
+- 🏆 2025 National Merit Scholar · Best Social Impact at HackTJ for an OCR tool that scans handwritten prescriptions / doctor's notes
 - 🧬 Co-authored a paper on [estimating the transmission fitness of SARS-CoV-2 variants](https://doi.org/10.1002/qub2.70003) (*Quantitative Biology*, Wiley)
-- 🏆 2025 National Merit Scholar · **Best Social Impact Hack** at HackTJ for an OCR tool that reads handwritten prescriptions
-- 🌱 Contributor to **20+ repositories**, and always happy to collaborate
-- 💃🏻 Off the keyboard: competitive ballroom and latin dancing, kendo, and perfecting my homemade bagels
+- 🌱 Contributor to 20+ repositories, and always happy to collaborate :)
+- 💃🏻 Off the keyboard: competitive ballroom and latin dancer
 
 ### ✿ projects
 
-| | project | what it is |
+| | project | description |
 |:-:|---|---|
 | 🎨 | **[mini color nn](https://github.com/disco-io/SysLab-RES-24-25)** | A neural network trained on a byte-sized, color-quantized take on the CIFAR-10 dataset · *Python* |
 | 🗺️ | **[chesapeake](https://github.com/disco-io/cww-map)** | Interactive map of Chesapeake Bay water-sampling stations for the Smithsonian Environmental Research Center. · *Python, HTML, CSS, JavaScript, ArcGIS* |
@@ -64,3 +64,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+... and constantly learning something new!
