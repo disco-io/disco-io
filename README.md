@@ -26,7 +26,7 @@
 
 | | project | description |
 |:-:|---|---|
-| ✨ | **[glint](https://glint-news.vercel.app/)** | Paste a news link and glint highlights the good bits, plus extra highlights matched to what you care about. Made for skimmers · *JavaScript, React, Claude API* |
+| ❇️ | **[glint](https://glint-news.vercel.app/)** | Paste a news link and Glint highlights the good bits, plus extra highlights matched to what you care about. Made for skimmers · *JavaScript, React, Claude API* |
 | 🎨 | **[mini color nn](https://github.com/disco-io/SysLab-RES-24-25)** | A neural network trained on a byte-sized, color-quantized take on the CIFAR-10 dataset · *Python* |
 | 🗺️ | **[chesapeake](https://github.com/disco-io/cww-map)** | Interactive map of Chesapeake Bay water-sampling stations for the Smithsonian Environmental Research Center. · *Python, HTML, CSS, JavaScript, ArcGIS* |
 | 🌸 | **[sophiamhuang.com](https://github.com/disco-io/sophia)** | My personal website, hand-coded from scratch with love · *HTML, CSS, JavaScript* |
