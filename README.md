@@ -26,6 +26,7 @@
 
 | | project | description |
 |:-:|---|---|
+| ✨ | **[glint](https://glint-news.vercel.app/)** | Paste a news link and glint highlights the good bits, plus extra highlights matched to what you care about. Made for skimmers · *JavaScript, React, Claude API* |
 | 🎨 | **[mini color nn](https://github.com/disco-io/SysLab-RES-24-25)** | A neural network trained on a byte-sized, color-quantized take on the CIFAR-10 dataset · *Python* |
 | 🗺️ | **[chesapeake](https://github.com/disco-io/cww-map)** | Interactive map of Chesapeake Bay water-sampling stations for the Smithsonian Environmental Research Center. · *Python, HTML, CSS, JavaScript, ArcGIS* |
 | 🌸 | **[sophiamhuang.com](https://github.com/disco-io/sophia)** | My personal website, hand-coded from scratch with love · *HTML, CSS, JavaScript* |
@@ -49,6 +50,11 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+**ai agents** &nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF3D77?style=flat-square&logoColor=white)
 
 **web & mobile** &nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
